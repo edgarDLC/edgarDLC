@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Edgar
+#### soy una persona que busca mejorar en la programación.
+Me encuentro aprendiendo el lenguaje JavaScript y lenguaje C. 
 
-<!--
-**edgarDLC/edgarDLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades: JS / C
+
+- 🌱 Estoy aprendiendo Estoy aprendiendo lenguaje C por mi cuenta. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edgarDLC)  
 
 Here are some ideas to get you started:
 
