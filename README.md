@@ -8,5 +8,6 @@ Habilidades: JS / C
 - 🌱 Estoy aprendiendo lenguaje C por mi cuenta. 
 - ⚡ Dato curioso: Empece a estudiar por mi cuenta después de que YouTube, me sugirió ver un video del canal de Programación ATS.
 
+https://github-readme-stats.vercel.app/api?userneme=edgarDLC
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edgarDLC)  
 
